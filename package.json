@@ -10,9 +10,6 @@
     "url": "https://github.com/Sharlaan/material-ui-superselectfield.git"
   },
   "homepage": "https://sharlaan.github.io/material-ui-superselectfield",
-  "engines": {
-    "node": ">=6"
-  },
   "main": "lib/SuperSelectField.js",
   "dependencies": {
     "react-infinite": "^0.10.0",
